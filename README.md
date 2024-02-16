@@ -25,7 +25,7 @@ python manage.py runserver
 
 ## API Documentation
 
-The queries and mutations required for the API were prepared with Thunder Client. You can find the necessary codes in the file.
-[Go to File]([https://www.github.com/hasanocal7](https://github.com/hasanocal7/GraphqlDjango2/blob/main/thunder-collection_Todo.json)https://github.com/hasanocal7/GraphqlDjango2/blob/main/thunder-collection_Todo.json) 
+* The queries and mutations required for the API were prepared with Thunder Client. You can find the necessary codes in the file.
+* [Go to File](https://github.com/hasanocal7/GraphqlDjango2/blob/main/thunder-collection_Todo.json) 
 
   
